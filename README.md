@@ -2,7 +2,7 @@
 Video Game made for the Technology Student Association Competition
 
 ## Description
-This is a game that Matthew Johnson, Parth Mehta, and Isaiah Williams made for Technology Student Association (TSA) competition. The object of the game is to solve puzzles with a partner to escape the Office Party.
+This is a game that Matthew Johnson, Parth Mehta, and Isaiah Williams made for Technology Student Association (TSA) competition. The object of the game is to fight enemies and survive Guy's chilling adventure.
 
 ## Installation
 To install the game, simply download the .jar file from the repository. Then to play the game, you need to open the file to run it. You also need to make sure the Java JDK is installed on your computer.
